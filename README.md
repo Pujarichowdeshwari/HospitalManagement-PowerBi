@@ -1,5 +1,5 @@
 # HospitalManagement-PowerBi
-<img src="https://i.postimg.cc/zfd6Tsdr/Hospital-ER-Analytics-Dashboard.png" width="1000" "height="600"><br>
+<img src="https://i.postimg.cc/zfd6Tsdr/Hospital-ER-Analytics-Dashboard.png" width="1000" height="600"><br>
 Hospital ER Management Dashboard – Detailed Project Explanation
 1. Project Overview
 The Hospital Emergency Room (ER) Management Dashboard is a Power BI project designed to analyze emergency room patient data. It helps understand patient demographics, admission patterns, department referrals, waiting times, and patient satisfaction.
